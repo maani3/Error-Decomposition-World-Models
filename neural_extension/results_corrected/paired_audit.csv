@@ -1,0 +1,2 @@
+n_paired,strictly_decreasing_inherited,high_n0min_pairwise_gt_n0max,mean_pairwise_drop,bootstrap_lo,bootstrap_hi,median_within_seed_correlation,positive_correlations
+100,70,99,0.7557142857142856,0.7242857142857143,0.7842857142857145,0.9098161251253514,100
