@@ -1,7 +1,10 @@
-# Decomposing Error in Continual World Models — code and data
+# Decomposing Error in Continual World Models — paper, code, and data
 
-Anonymous artifact accompanying the submission. Everything reported in the paper
-is produced by the scripts here; no result is transcribed by hand.
+Camera-ready paper accepted to the NeurIPS 2026 Workshop on Continual World Models
+(Idea Track): [read the PDF](paper.pdf).
+
+Everything reported in the paper is produced by the scripts here; no result is
+transcribed by hand.
 
 The paper decomposes post-update ("endpoint") prediction error into inherited
 error and update mismatch through the pointwise identity
